@@ -1,0 +1,3 @@
+1 - Understand the dataset
+2 - identify the problem
+3 - plan next steps
